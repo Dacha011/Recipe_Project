@@ -1,0 +1,32 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dacha011/js-recipe-project.git"
+  },
+  "keywords": [
+    "dacha"
+  ],
+  "author": "dacha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dacha011/js-recipe-project/issues"
+  },
+  "homepage": "https://github.com/Dacha011/js-recipe-project#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "core-js": "^3.27.1",
+    "fracty": "^1.0.11",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
